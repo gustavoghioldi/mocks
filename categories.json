@@ -1,6 +1,12 @@
 {
     "results":
     [
-        {"title":"Deportes", "note":""}
+        {"title":"Deportes", "note":""},
+        {"title":"Gastronomia", "note":""},
+        {"title":"Salidas", "note":""},
+        {"title":"Turismo", "note":""},
+        {"title":"Moda", "note":""},
+        {"title":"Cuidado Personal", "note":""},
+        {"title":"Otras", "note":""},
     ]
 }
